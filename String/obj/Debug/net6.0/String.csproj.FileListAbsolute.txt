@@ -1,0 +1,15 @@
+/Users/Elena/Desktop/Final/String/obj/Debug/net6.0/String.csproj.AssemblyReference.cache
+/Users/Elena/Desktop/Final/String/obj/Debug/net6.0/String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Elena/Desktop/Final/String/obj/Debug/net6.0/String.AssemblyInfoInputs.cache
+/Users/Elena/Desktop/Final/String/obj/Debug/net6.0/String.AssemblyInfo.cs
+/Users/Elena/Desktop/Final/String/obj/Debug/net6.0/String.csproj.CoreCompileInputs.cache
+/Users/Elena/Desktop/Final/String/obj/Debug/net6.0/String.dll
+/Users/Elena/Desktop/Final/String/obj/Debug/net6.0/refint/String.dll
+/Users/Elena/Desktop/Final/String/obj/Debug/net6.0/String.pdb
+/Users/Elena/Desktop/Final/String/bin/Debug/net6.0/String
+/Users/Elena/Desktop/Final/String/bin/Debug/net6.0/String.deps.json
+/Users/Elena/Desktop/Final/String/bin/Debug/net6.0/String.runtimeconfig.json
+/Users/Elena/Desktop/Final/String/bin/Debug/net6.0/String.dll
+/Users/Elena/Desktop/Final/String/bin/Debug/net6.0/String.pdb
+/Users/Elena/Desktop/Final/String/obj/Debug/net6.0/String.genruntimeconfig.cache
+/Users/Elena/Desktop/Final/String/obj/Debug/net6.0/ref/String.dll
